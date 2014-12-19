@@ -1,6 +1,7 @@
 {
     "formatVersion": 1,
     "packageMap": {
+        "pages/page0": "12",
         "pages/page1": "123",
         "node_modules/module1": "1234"
     }

@@ -38,8 +38,10 @@ CarteroNodeHook.prototype.readMetaData = function() {
     if (this.cache) {
       delete(require.cache[assetsPath]);
     }
-
-    packageMap[key] = require(assetsPath);
+    try {
+      // ignore error if file not found
+      packageMap[key] = require(assetsPath);
+    } catch(err){}
   });
 };
 
