@@ -1,6 +1,6 @@
 cartero-node-hook-sync
 ======================
-Like [cartero-node-hook](https://github.com/rotundasoftware/cartero-node-hook) but reading the assets deifition on the constructor
+Like [cartero-node-hook](https://github.com/rotundasoftware/cartero-node-hook) but reading the assets definition on the constructor
 
 
 
