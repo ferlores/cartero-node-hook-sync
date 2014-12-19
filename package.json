@@ -1,0 +1,30 @@
+{
+  "name": "cartero-node-hook-sync",
+  "version": "0.0.1",
+  "description": "Cartero node hook but synchronous",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferlores/cartero-node-hook-sync"
+  },
+  "keywords": [
+    "cartero",
+    "browserify",
+    "parcelify"
+  ],
+  "author": "Fernando Lores <ferlores@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferlores/cartero-node-hook-sync/issues"
+  },
+  "homepage": "https://github.com/ferlores/cartero-node-hook-sync",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "dependencies": {
+    "lodash.clonedeep": "^2.4.1"
+  }
+}

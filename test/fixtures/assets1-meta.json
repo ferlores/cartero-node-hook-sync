@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "packageMap": {
+    "pages/page1": {
+      "script": [
+        "123/page1_bundle.js"
+      ],
+      "style": [
+        "123/page1_bundle.css"
+      ],
+      "image": []
+    },
+    "node_modules/module1": {
+      "script": [
+        "1234/module1_bundle.js"
+      ],
+      "style": [
+        "1234/module1_bundle.css"
+      ],
+      "image": []
+    }
+  }
+}

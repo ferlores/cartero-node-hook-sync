@@ -1,0 +1,9 @@
+{
+    "script": [
+        "123/page1_bundle.js"
+    ],
+    "style": [
+        "123/page1_bundle.css"
+    ],
+    "image": []
+}
